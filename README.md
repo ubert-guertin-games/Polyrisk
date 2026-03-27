@@ -1,6 +1,6 @@
 # Memory Game
 
-[Play Online!](https://ubert-guertin-games.github.io/Polyrisk/dist/)
+[Play Online](https://ubert-guertin-games.github.io/Polyrisk/dist/)
 
 ## How to run this project ?
 
