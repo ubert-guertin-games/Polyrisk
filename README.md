@@ -5,7 +5,8 @@
 ## How to run this project ?
 
 ```
-git clone https://github.com/ubert-guertin-games/Polyrisk.git
+git clone https://github.com/ubert-guertin-games/Polyrisk.git]
+
 cd Polyrisk
 
 bun install
